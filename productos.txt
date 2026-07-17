@@ -1,0 +1,4 @@
+1;Tour Saltos del Petrohué;25000
+2;Tour Volcán Osorno;35000
+3;Tour Frutillar;18000
+4;Tour Chiloé;45000

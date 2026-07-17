@@ -1,0 +1,4 @@
+Juan Perez;12.345.678-9;L;Puerto Montos Aromos 123t;Banco Estado;1111222233334444;100
+Maria Soto;15.987.654-3;Las Rosas 456;Llanquihue;Banco de Chile;5555666677778888;200
+Pedro Rojas;18.111.222-5;Los Lagos 789;Puerto Varas;Santander;9999000011112222;150
+Camila Muñoz;19.333.444-6;Alerce 321;Frutillar;BCI;3333444455556666;300
